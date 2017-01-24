@@ -1,0 +1,6 @@
+framework module Pods_XiShiAnimation_Tests {
+  umbrella header "Pods-XiShiAnimation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

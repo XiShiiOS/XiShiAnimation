@@ -1,0 +1,6 @@
+framework module XiShiAnimation {
+  umbrella header "XiShiAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}

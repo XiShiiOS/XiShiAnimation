@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XiShiAnimation_Example' do
+  pod 'XiShiAnimation', :path => '../'
+
+  target 'XiShiAnimation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

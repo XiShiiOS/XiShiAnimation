@@ -1,0 +1,16 @@
+PODS:
+  - XiShiAnimation (0.1.0)
+
+DEPENDENCIES:
+  - XiShiAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  XiShiAnimation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XiShiAnimation: 005a88ff9ffedae2c8616cca90d82b648d7bb945
+
+PODFILE CHECKSUM: f1815c3090e6f733f1da91c8296030b2cb05a6ea
+
+COCOAPODS: 1.1.1
